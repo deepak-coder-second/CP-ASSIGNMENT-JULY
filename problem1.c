@@ -24,6 +24,9 @@ int main(){
     }
     //function calling
     sumOfDiagonal(matrix,matrixSize);
+
+    return 0;
+    
     
 }
 
